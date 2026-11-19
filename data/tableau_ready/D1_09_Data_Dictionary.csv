@@ -1,0 +1,18 @@
+﻿Sheet,Field,Definisi,Satuan,Periode,Cakupan,Sumber,Status_Catatan
+KPI_2025,TPT_SMK_pct,Persentase penganggur dalam angkatan kerja lulusan SMK,Persen,Agustus 2025,Nasional,T01,Aktual BPS
+KPI_2025,Gap_TPT_SMK_vs_SMA_pp,TPT SMK dikurangi TPT SMA umum,Poin persentase,Agustus 2025,Nasional,T01,Turunan dari angka aktual BPS
+KPI_2025,Penganggur_SMK_Agustus_orang,Jumlah penganggur dengan pendidikan tertinggi SMK,Orang,Agustus 2025,Nasional,T18,Aktual BPS
+KPI_2025,Share_Penganggur_SMK_pct,Penganggur SMK dibagi total penganggur seluruh pendidikan,Persen,Agustus 2025,Nasional,T18,Turunan dari angka aktual BPS
+TPT_Education,TPT_pct,Tingkat Pengangguran Terbuka menurut pendidikan tertinggi,Persen,Tahunan; rilis Agustus,Nasional,T01,Aktual BPS
+Unemployment_Grouped,Penganggur_Agustus_orang,Jumlah penganggur menurut kelompok pendidikan standar,Orang,Agustus 2025,Nasional,T18,SD ke bawah merupakan agregasi tiga kategori sumber
+Unemployment_Grouped,Pangsa_Penganggur_Agustus_pct,Jumlah penganggur kelompok dibagi total penganggur,Persen,Agustus 2025,Nasional,T18,Turunan dari angka aktual BPS
+Wage_Education,Upah_Total_Agustus_Rp,Rata-rata upah/gaji bersih sebulan buruh/karyawan/pegawai,Rupiah/bulan,Agustus 2025,Nasional,T11,Tidak mencakup seluruh pekerja; hanya buruh/karyawan/pegawai
+Provincial_Context,TPT_Total_Agustus_2025_pct,TPT seluruh angkatan kerja tanpa pemisahan pendidikan,Persen,Agustus 2025,Provinsi,T02,Jangan dilabeli sebagai TPT SMK
+Provincial_Context,TPAK_Agustus_2025_pct,Angkatan kerja terhadap penduduk usia kerja,Persen,Agustus 2025,Provinsi,T03,Semua tingkat pendidikan
+Provincial_Context,Pekerja_Formal_Tahunan_2025_pct,Persentase pekerja formal,Persen,Tahunan 2025,Provinsi,T04,Semua tingkat pendidikan
+Provincial_Context,Setengah_Pengangguran_Tahunan_2025_pct,Tingkat setengah pengangguran,Persen,Tahunan 2025,Provinsi,T05,Semua tingkat pendidikan
+Provincial_Context,RLS_Tahunan_2025_tahun,Rata-rata lama sekolah penduduk umur 15+,Tahun,Tahunan 2025,Provinsi,T07,Bukan lulusan SMK saja
+Provincial_Context,Upah_Buruh_Agustus_2025_Rp,Rata-rata upah/gaji bersih bulanan buruh seluruh pendidikan,Rupiah/bulan,Agustus 2025,Provinsi,T10,Bukan upah khusus SMK
+Provincial_Context,Pekerja_Total_Agustus_2025_orang,Jumlah penduduk bekerja,Orang,Agustus 2025,Provinsi,T14,Semua tingkat pendidikan
+Provincial_Context,TPT_SMK_Agustus_2025_pct,TPT khusus lulusan SMK per provinsi,Persen,Agustus 2025,Provinsi,Belum tersedia,Kolom sengaja kosong; perlu pengumpulan data tambahan.
+Map_TPT_Provinsi,TPT_Total_Agustus_2025_pct,Nilai untuk choropleth TPT umum per provinsi,Persen,Agustus 2025,Provinsi,T02,Peta bukan peta TPT SMK.

@@ -1,0 +1,39 @@
+﻿ID_Prov_Internal,Provinsi,Country,Provinsi_BPS_Label,Wilayah,Flag_Pemekaran_Papua
+1,Aceh,Indonesia,ACEH,Sumatera,False
+2,Sumatera Utara,Indonesia,SUMATERA UTARA,Sumatera,False
+3,Sumatera Barat,Indonesia,SUMATERA BARAT,Sumatera,False
+4,Riau,Indonesia,RIAU,Sumatera,False
+5,Jambi,Indonesia,JAMBI,Sumatera,False
+6,Sumatera Selatan,Indonesia,SUMATERA SELATAN,Sumatera,False
+7,Bengkulu,Indonesia,BENGKULU,Sumatera,False
+8,Lampung,Indonesia,LAMPUNG,Sumatera,False
+9,Kepulauan Bangka Belitung,Indonesia,KEP. BANGKA BELITUNG,Sumatera,False
+10,Kepulauan Riau,Indonesia,KEP. RIAU,Sumatera,False
+11,DKI Jakarta,Indonesia,DKI JAKARTA,Jawa,False
+12,Jawa Barat,Indonesia,JAWA BARAT,Jawa,False
+13,Jawa Tengah,Indonesia,JAWA TENGAH,Jawa,False
+14,DI Yogyakarta,Indonesia,DI YOGYAKARTA,Jawa,False
+15,Jawa Timur,Indonesia,JAWA TIMUR,Jawa,False
+16,Banten,Indonesia,BANTEN,Jawa,False
+17,Bali,Indonesia,BALI,Bali & Nusa Tenggara,False
+18,Nusa Tenggara Barat,Indonesia,NUSA TENGGARA BARAT,Bali & Nusa Tenggara,False
+19,Nusa Tenggara Timur,Indonesia,NUSA TENGGARA TIMUR,Bali & Nusa Tenggara,False
+20,Kalimantan Barat,Indonesia,KALIMANTAN BARAT,Kalimantan,False
+21,Kalimantan Tengah,Indonesia,KALIMANTAN TENGAH,Kalimantan,False
+22,Kalimantan Selatan,Indonesia,KALIMANTAN SELATAN,Kalimantan,False
+23,Kalimantan Timur,Indonesia,KALIMANTAN TIMUR,Kalimantan,False
+24,Kalimantan Utara,Indonesia,KALIMANTAN UTARA,Kalimantan,False
+25,Sulawesi Utara,Indonesia,SULAWESI UTARA,Sulawesi,False
+26,Sulawesi Tengah,Indonesia,SULAWESI TENGAH,Sulawesi,False
+27,Sulawesi Selatan,Indonesia,SULAWESI SELATAN,Sulawesi,False
+28,Sulawesi Tenggara,Indonesia,SULAWESI TENGGARA,Sulawesi,False
+29,Gorontalo,Indonesia,GORONTALO,Sulawesi,False
+30,Sulawesi Barat,Indonesia,SULAWESI BARAT,Sulawesi,False
+31,Maluku,Indonesia,MALUKU,Maluku & Papua,False
+32,Maluku Utara,Indonesia,MALUKU UTARA,Maluku & Papua,False
+33,Papua Barat,Indonesia,PAPUA BARAT,Maluku & Papua,True
+34,Papua Barat Daya,Indonesia,PAPUA BARAT DAYA,Maluku & Papua,True
+35,Papua,Indonesia,PAPUA,Maluku & Papua,True
+36,Papua Selatan,Indonesia,PAPUA SELATAN,Maluku & Papua,True
+37,Papua Tengah,Indonesia,PAPUA TENGAH,Maluku & Papua,True
+38,Papua Pegunungan,Indonesia,PAPUA PEGUNUNGAN,Maluku & Papua,True

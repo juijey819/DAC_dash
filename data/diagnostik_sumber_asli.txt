@@ -1,0 +1,68 @@
+[INFO] Baris long provinsi (semua tabel, termasuk baris nasional): 2145
+
+=== DIAGNOSTIK DATA (dicetak saat runtime) ===
+[NA] Jumlah sel kosong/ditekan BPS: 79 dari 2340
+[NA] - 24 sel = 4 provinsi Papua baru sebelum 2024 (provinsi belum terbentuk/ belum diestimasi Sakernas). Tidak diimputasi.
+[NA] - 39 sel = TPAK Agustus 2026 belum dirilis pada tabel BPS saat diakses.
+[NA] - Banten | UPAH_BURUH_INDUSTRI Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Kalimantan Barat | UPAH_BURUH_INDUSTRI Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Kalimantan Barat | UPAH_BURUH Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Papua Pegunungan | UPAH_BURUH_INDUSTRI Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Lampung | PEKERJA_TAMBANG Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - DKI Jakarta | PEKERJA_TAMBANG Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - DI Yogyakarta | PEKERJA_TAMBANG Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Bali | PEKERJA_TAMBANG Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Nusa Tenggara Timur | PEKERJA_TAMBANG Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Sulawesi Barat | PEKERJA_TAMBANG Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Papua Barat | PEKERJA_TAMBANG Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Papua Selatan | PEKERJA_TAMBANG Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Papua Selatan | PEKERJA_TAMBANG Agustus 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Papua Pegunungan | PEKERJA_TAMBANG Februari 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Papua Pegunungan | PEKERJA_TAMBANG Agustus 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[NA] - Papua Pegunungan | PEKERJA_INDUSTRI Agustus 2025 | raw='-' (data ditekan BPS: RSE>=50% atau tidak ditampilkan)
+[FLAG] Papua Selatan | PEND_INFORMAL_SD 2025: RSE 25%-50% (simbol 'a' BPS) (raw='2.808.012a')
+[ANOMALI] TPT 'Papua' & 'Papua Barat' 2021-2023 merujuk wilayah SEBELUM pemekaran; nilai 2024+ merujuk wilayah baru. Jangan hitung tren 2021->2025 untuk 6 provinsi Papua tanpa catatan. (lihat flag_pemekaran di master)
+
+=== DIAGNOSTIK MASTER 2025 (38 provinsi) ===
+[NA] TPT_Agu_2021: 4 provinsi kosong -> Papua Barat Daya, Papua Selatan, Papua Tengah, Papua Pegunungan
+[NA] Upah_Buruh_Feb_2025: 1 provinsi kosong -> Kalimantan Barat
+[NA] Pekerja_Industri_Agu_2025: 1 provinsi kosong -> Papua Pegunungan
+[NA] Pekerja_Tambang_Agu_2025: 2 provinsi kosong -> Papua Selatan, Papua Pegunungan
+[NA] Delta_TPT_Agu_2021_2025: 6 provinsi kosong -> Papua Barat, Papua Barat Daya, Papua, Papua Selatan, Papua Tengah, Papua Pegunungan
+[NA] Share_Industri_Agu_2025: 1 provinsi kosong -> Papua Pegunungan
+[NA] Share_Tambang_Agu_2025: 2 provinsi kosong -> Papua Selatan, Papua Pegunungan
+[OUTLIER IQR] Upah_Buruh_Agu_2025: DKI Jakarta=5,903,603.00
+[OUTLIER IQR] APK_PT_2025: DI Yogyakarta=74.70
+[OUTLIER IQR] Pct_TK_Formal_2025: Kepulauan Riau=65.75; Papua Tengah=15.28; Papua Pegunungan=4.70
+[OUTLIER IQR] TPAK_Agu_2025: Papua Pegunungan=90.66
+[OUTLIER IQR] Share_Industri_Agu_2025: Kepulauan Riau=24.16; Jawa Barat=18.73; Jawa Tengah=20.98; Banten=22.37; Maluku Utara=24.90
+[OUTLIER IQR] NEET_15_24_2025: Bali=5.33
+[CEK] Provinsi dengan (A+B+C) > total pekerja: 0
+[CEK] TPT nasional Agu 2025 pada tabel provinsi = 4.85 ; TPT SMK nasional 2025 (tabel pendidikan) = 8,63
+[CEK] Data kemiskinan: periode Maret & September (Susenas), BEDA dengan Februari/Agustus (Sakernas). Tidak dicampur tanpa label.
+[CEK] PDRB per kapita yang dipakai adalah Seri 2010; status angka 2025 tidak dicantumkan pada keterangan tabel (kemungkinan sementara).
+
+=== NASIONAL: TPT SMK vs jenjang lain ===
+[2019] TPT tertinggi: SMK (10.36%) | SMK - SMA Umum = 2.49 pp | rasio SMK/SMA = 1.32
+[2020] TPT tertinggi: SMK (13.55%) | SMK - SMA Umum = 3.69 pp | rasio SMK/SMA = 1.37
+[2021] TPT tertinggi: SMK (11.13%) | SMK - SMA Umum = 2.04 pp | rasio SMK/SMA = 1.22
+[2022] TPT tertinggi: SMK (9.42%) | SMK - SMA Umum = 0.85 pp | rasio SMK/SMA = 1.10
+[2023] TPT tertinggi: SMK (9.31%) | SMK - SMA Umum = 1.16 pp | rasio SMK/SMA = 1.14
+[2024] TPT tertinggi: SMK (9.01%) | SMK - SMA Umum = 1.96 pp | rasio SMK/SMA = 1.28
+[2025] TPT tertinggi: SMK (8.63%) | SMK - SMA Umum = 1.75 pp | rasio SMK/SMA = 1.25
+
+=== NASIONAL: premi upah buruh Agustus 2025 (Total sektor) ===
+Tidak/Belum Pernah Sekolah          upah Agu=   2,083,427  vs SD=0.93  vs SMA=0.66
+Tidak/Belum Tamat SD                upah Agu=   2,013,704  vs SD=0.90  vs SMA=0.64
+Sekolah Dasar                       upah Agu=   2,242,860  vs SD=1.00  vs SMA=0.71
+Sekolah Menegah Pertama             upah Agu=   2,482,817  vs SD=1.11  vs SMA=0.79
+Sekolah Menengah Atas (Umum)        upah Agu=   3,149,687  vs SD=1.40  vs SMA=1.00
+Sekolah Menengah Atas (Kejuruan)    upah Agu=   3,256,604  vs SD=1.45  vs SMA=1.03
+Diploma I/II/III/Akademi            upah Agu=   4,500,603  vs SD=2.01  vs SMA=1.43
+Universitas                         upah Agu=   4,804,860  vs SD=2.14  vs SMA=1.53
+Rata-Rata                           upah Agu=   3,331,012  vs SD=1.49  vs SMA=1.06
+[CATATAN] Konsep menulis 'D-IV s.d. S3 ~2,2x SD ke bawah (Agu 2025)'. Tabel BPS ini memakai kategori 'Universitas' vs 'Sekolah Dasar': rasio = 2.14. Kategori berbeda -> jangan disamakan tanpa catatan.
+[INSIGHT-CEK] Upah buruh SMK (Agu 2025) LEBIH TINGGI daripada SMA umum, padahal TPT SMK lebih tinggi: yang terserap dibayar setara/lebih, masalahnya di keterserapan.
+
+[CEK] Jumlah penganggur per pendidikan Agu 2025 = 7,461,507 vs Total BPS = 7,461,507 (selisih 0)
+[INFO] Pangsa penganggur lulusan SMK Agu 2025 = 25.8% dari seluruh penganggur

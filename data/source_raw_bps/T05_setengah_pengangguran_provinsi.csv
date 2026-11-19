@@ -1,0 +1,47 @@
+﻿# Judul tabel BPS: Tingkat Setengah Pengangguran Menurut Provinsi (Persen)
+# Sumber resmi: Badan Pusat Statistik (BPS) - https://www.bps.go.id/id/statistics-table/2/MTE4MSMy/tingkat-setengah-pengangguran-menurut-provinsi--persen-.html
+# Terakhir Diperbarui : 24 Februari 2026 (keterangan pada laman BPS)
+# Satuan: Persen
+# Catatan BPS: Sumber: Sakernas, BPS
+# Tanggal akses: 18 November 2026
+# Cara pengambilan: Diambil dari tampilan tabel resmi BPS di bps.go.id (dibaca langsung dari tabel yang dirender di browser, tanpa pengubahan angka). Angka disimpan persis seperti tampilan BPS (format Indonesia: titik = ribuan, koma = desimal).
+Provinsi,Tahunan 2024,Tahunan 2025
+ACEH,"13,79","13,83"
+SUMATERA UTARA,"8,71","9,05"
+SUMATERA BARAT,"11,11","10,69"
+RIAU,"9,12","8,98"
+JAMBI,"8,43","9,27"
+SUMATERA SELATAN,"9,83","8,98"
+BENGKULU,"10,05","9,71"
+LAMPUNG,"9,63","11,29"
+KEP. BANGKA BELITUNG,"7,41","7,38"
+KEP. RIAU,"3,91","5,01"
+DKI JAKARTA,"3,98","3,22"
+JAWA BARAT,"7,73","8,35"
+JAWA TENGAH,"7,48","7,00"
+DI YOGYAKARTA,"5,55","5,56"
+JAWA TIMUR,"7,06","6,56"
+BANTEN,"6,77","6,66"
+BALI,"2,35","2,80"
+NUSA TENGGARA BARAT,"15,23","13,94"
+NUSA TENGGARA TIMUR,"14,90","11,44"
+KALIMANTAN BARAT,"8,25","8,39"
+KALIMANTAN TENGAH,"5,89","5,97"
+KALIMANTAN SELATAN,"7,61","7,39"
+KALIMANTAN TIMUR,"4,61","5,66"
+KALIMANTAN UTARA,"6,73","4,71"
+SULAWESI UTARA,"6,62","7,77"
+SULAWESI TENGAH,"8,90","8,04"
+SULAWESI SELATAN,"7,93","7,93"
+SULAWESI TENGGARA,"8,61","7,94"
+GORONTALO,"8,49","6,82"
+SULAWESI BARAT,"12,09","11,33"
+MALUKU,"12,12","11,49"
+MALUKU UTARA,"9,14","10,56"
+PAPUA BARAT,"10,90","9,74"
+PAPUA BARAT DAYA,"13,72","7,49"
+PAPUA,"8,42","8,63"
+PAPUA SELATAN,"7,09","6,45"
+PAPUA TENGAH,"5,84","16,89"
+PAPUA PEGUNUNGAN,"5,89","5,37"
+INDONESIA,"7,99","7,91"

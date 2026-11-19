@@ -1,0 +1,17 @@
+﻿# Judul tabel BPS: Pengangguran Terbuka Menurut Pendidikan Tertinggi yang Ditamatkan (Orang)
+# Sumber resmi: Badan Pusat Statistik (BPS) - https://www.bps.go.id/id/statistics-table/2/Njc0IzI=/pengangguran-terbuka-menurut-pendidikan-tertinggi-yang-ditamatkan--orang-.html
+# Terakhir Diperbarui : 24 Februari 2026 (keterangan pada laman BPS)
+# Satuan: Orang
+# Catatan BPS: Data 2011-2013 menggunakan Backcast dari Penimbang Proyeksi Komponen; 1986-1998 tanpa Timor Timur; 1995 Sakernas tidak dilaksanakan; 2000 tanpa Maluku. Sumber: Sakernas
+# Tanggal akses: 18 November 2026
+# Cara pengambilan: Diambil dari tampilan tabel resmi BPS di bps.go.id (dibaca langsung dari tabel yang dirender di browser, tanpa pengubahan angka). Angka disimpan persis seperti tampilan BPS (format Indonesia: titik = ribuan, koma = desimal).
+Tahun,Pendidikan,Februari,Agustus,Tahunan
+2025,Tidak/belum pernah sekolah,47.351,41.217,-
+2025,Tidak/belum tamat SD,317.796,357.939,-
+2025,SD,878.512,802.284,-
+2025,SLTP,1.179.187,991.984,-
+2025,SLTA Umum/SMU,2.038.893,2.293.563,-
+2025,SLTA Kejuruan/SMK,1.628.517,1.923.756,-
+2025,Akademi/Diploma,177.399,146.324,-
+2025,Universitas,1.010.652,904.440,-
+2025,Total,7.278.307,7.461.507,-

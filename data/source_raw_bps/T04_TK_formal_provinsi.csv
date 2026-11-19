@@ -1,0 +1,47 @@
+﻿# Judul tabel BPS: Persentase Tenaga Kerja Formal Menurut Provinsi (Persen)
+# Sumber resmi: Badan Pusat Statistik (BPS) - https://www.bps.go.id/id/statistics-table/2/MTE2OCMy/persentase-tenaga-kerja-formal-menurut-provinsi--persen-.html
+# Terakhir Diperbarui : 24 Februari 2026 (keterangan pada laman BPS)
+# Satuan: Persen
+# Catatan BPS: Sumber: Survei Angkatan Kerja Nasional (Sakernas)
+# Tanggal akses: 18 November 2026
+# Cara pengambilan: Diambil dari tampilan tabel resmi BPS di bps.go.id (dibaca langsung dari tabel yang dirender di browser, tanpa pengubahan angka). Angka disimpan persis seperti tampilan BPS (format Indonesia: titik = ribuan, koma = desimal).
+Provinsi,Tahunan 2024,Tahunan 2025
+ACEH,"39,83","36,09"
+SUMATERA UTARA,"42,65","42,74"
+SUMATERA BARAT,"37,45","35,67"
+RIAU,"49,93","48,00"
+JAMBI,"41,65","42,73"
+SUMATERA SELATAN,"37,66","36,87"
+BENGKULU,"33,99","34,83"
+LAMPUNG,"30,86","35,28"
+KEP. BANGKA BELITUNG,"48,86","48,71"
+KEP. RIAU,"68,45","65,75"
+DKI JAKARTA,"63,69","63,37"
+JAWA BARAT,"45,61","45,05"
+JAWA TENGAH,"40,36","41,21"
+DI YOGYAKARTA,"46,88","46,03"
+JAWA TIMUR,"38,51","38,27"
+BANTEN,"53,79","54,88"
+BALI,"49,32","49,53"
+NUSA TENGGARA BARAT,"29,49","31,58"
+NUSA TENGGARA TIMUR,"26,68","31,56"
+KALIMANTAN BARAT,"43,98","43,61"
+KALIMANTAN TENGAH,"50,67","49,85"
+KALIMANTAN SELATAN,"46,44","46,52"
+KALIMANTAN TIMUR,"57,68","56,78"
+KALIMANTAN UTARA,"49,59","51,56"
+SULAWESI UTARA,"44,53","45,44"
+SULAWESI TENGAH,"34,57","35,43"
+SULAWESI SELATAN,"39,50","39,55"
+SULAWESI TENGGARA,"38,08","38,87"
+GORONTALO,"38,55","38,86"
+SULAWESI BARAT,"27,92","29,37"
+MALUKU,"34,96","33,94"
+MALUKU UTARA,"35,24","35,49"
+PAPUA BARAT,"37,13","36,81"
+PAPUA BARAT DAYA,"43,04","44,34"
+PAPUA,"42,72","47,12"
+PAPUA SELATAN,"33,16","34,12"
+PAPUA TENGAH,"12,98","15,28"
+PAPUA PEGUNUNGAN,"4,24","4,70"
+INDONESIA,"42,05","42,20"

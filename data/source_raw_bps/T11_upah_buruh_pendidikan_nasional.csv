@@ -1,0 +1,17 @@
+﻿# Judul tabel BPS: Rata-Rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Pendidikan Tertinggi yang Ditamatkan dan Lapangan Usaha di 17 Sektor (Rupiah)
+# Sumber resmi: Badan Pusat Statistik (BPS) - https://www.bps.go.id/id/statistics-table/2/MjQ3NCMy/rata-rata-upah-gaji-bersih-sebulan-buruh-karyawan-pegawai-menurut-pendidikan-tertinggi-yang-ditamatkan-dan-lapangan-usaha-di-17-sektor--rupiah-.html
+# Terakhir Diperbarui : 14 Juli 2026 (keterangan pada laman BPS)
+# Satuan: Rupiah
+# Catatan BPS: Sumber: Sakernas. Catatan: beberapa angka memiliki RSE 25%-50%. Label 'Sekolah Menegah Pertama' tertulis demikian di tabel BPS (typo asli BPS, dipertahankan). Kolom diekstrak: C Industri Pengolahan & Total (Feb, Agu) tahun 2025.
+# Tanggal akses: 18 November 2026
+# Cara pengambilan: Diambil dari tampilan tabel resmi BPS di bps.go.id (dibaca langsung dari tabel yang dirender di browser, tanpa pengubahan angka). Angka disimpan persis seperti tampilan BPS (format Indonesia: titik = ribuan, koma = desimal).
+Tahun,Pendidikan,C_Industri_Pengolahan_Februari,C_Industri_Pengolahan_Agustus,Total_Februari,Total_Agustus
+2025,Tidak/Belum Pernah Sekolah,1.742.527,1.995.444,1.600.941,2.083.427
+2025,Tidak/Belum Tamat SD,1.633.347,1.597.667,1.932.276,2.013.704
+2025,Sekolah Dasar,1.957.152,2.009.016,2.122.293,2.242.860
+2025,Sekolah Menegah Pertama,2.470.515,2.556.860,2.481.444,2.482.817
+2025,Sekolah Menengah Atas (Umum),3.289.644,3.444.269,2.982.835,3.149.687
+2025,Sekolah Menengah Atas (Kejuruan),3.218.565,3.509.804,2.965.677,3.256.604
+2025,Diploma I/II/III/Akademi,5.567.452,5.676.649,3.890.826,4.500.603
+2025,Universitas,6.243.374,6.629.591,4.350.202,4.804.860
+2025,Rata-Rata,3.090.532,3.269.849,3.094.818,3.331.012

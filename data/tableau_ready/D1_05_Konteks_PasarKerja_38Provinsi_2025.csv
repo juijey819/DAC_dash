@@ -1,0 +1,39 @@
+﻿ID_Prov_Internal,Provinsi,Country,Provinsi_BPS_Label,Wilayah,Flag_Pemekaran_Papua,TPT_Total_Agustus_2025_pct,TPT_SMK_Agustus_2025_pct,TPAK_Agustus_2025_pct,Pekerja_Formal_Tahunan_2025_pct,Setengah_Pengangguran_Tahunan_2025_pct,RLS_Tahunan_2025_tahun,Upah_Buruh_Agustus_2025_Rp,Pekerja_Total_Agustus_2025_orang,Pekerja_Industri_Pengolahan_Agustus_2025_orang,Pekerja_Pertanian_Agustus_2025_orang,Pekerja_Pertambangan_Agustus_2025_orang,Catatan_TPT_SMK
+1,Aceh,Indonesia,ACEH,Sumatera,False,5.64,,65.32,36.09,13.83,10.42,2837520.0,2561329.0,183389.0,987571.0,30091.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+2,Sumatera Utara,Indonesia,SUMATERA UTARA,Sumatera,False,5.32,,72.29,42.74,9.05,10.29,2815066.0,7976273.0,720974.0,2594523.0,39410.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+3,Sumatera Barat,Indonesia,SUMATERA BARAT,Sumatera,False,5.62,,71.34,35.67,10.69,10.03,2911450.0,3018582.0,238583.0,1075246.0,49927.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+4,Riau,Indonesia,RIAU,Sumatera,False,4.16,,66.55,48.0,8.98,9.8,3144261.0,3210929.0,260947.0,1104591.0,43330.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+5,Jambi,Indonesia,JAMBI,Sumatera,False,4.26,,68.37,42.73,9.27,9.32,2975646.0,1851864.0,96568.0,802899.0,72649.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+6,Sumatera Selatan,Indonesia,SUMATERA SELATAN,Sumatera,False,3.69,,69.88,36.87,8.98,9.28,3015055.0,4492574.0,267964.0,2030483.0,89197.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+7,Bengkulu,Indonesia,BENGKULU,Sumatera,False,3.41,,71.78,34.83,9.71,9.71,2935681.0,1115334.0,54691.0,500148.0,9831.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+8,Lampung,Indonesia,LAMPUNG,Sumatera,False,4.21,,70.44,35.28,11.29,9.0,2520619.0,4853377.0,444421.0,1998315.0,23761.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+9,Kepulauan Bangka Belitung,Indonesia,KEP. BANGKA BELITUNG,Sumatera,False,4.45,,69.38,48.71,7.38,9.09,3202690.0,785723.0,64977.0,210661.0,104570.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+10,Kepulauan Riau,Indonesia,KEP. RIAU,Sumatera,False,6.45,,68.23,65.75,5.01,10.78,4768990.0,1051975.0,254173.0,78745.0,8113.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+11,DKI Jakarta,Indonesia,DKI JAKARTA,Jawa,False,6.05,,64.75,63.37,3.22,11.58,5903603.0,5128464.0,571301.0,19721.0,10049.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+12,Jawa Barat,Indonesia,JAWA BARAT,Jawa,False,6.77,,66.99,45.05,8.35,9.46,3768080.0,24506852.0,4589399.0,3734138.0,132121.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+13,Jawa Tengah,Indonesia,JAWA TENGAH,Jawa,False,4.66,,74.36,41.21,7.0,8.62,2528470.0,21295797.0,4468487.0,5538356.0,111071.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+14,DI Yogyakarta,Indonesia,DI YOGYAKARTA,Jawa,False,3.46,,74.74,46.03,5.56,10.58,2924613.0,2200071.0,396537.0,401818.0,5919.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+15,Jawa Timur,Indonesia,JAWA TIMUR,Jawa,False,3.88,,73.98,38.27,6.56,8.81,2899074.0,23801034.0,3558053.0,7636387.0,99875.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+16,Banten,Indonesia,BANTEN,Jawa,False,6.69,,64.66,54.88,6.66,9.82,4062488.0,5755926.0,1287795.0,744992.0,24682.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+17,Bali,Indonesia,BALI,Bali & Nusa Tenggara,False,1.49,,77.31,49.53,2.8,10.07,3639413.0,2701726.0,403820.0,464171.0,4357.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+18,Nusa Tenggara Barat,Indonesia,NUSA TENGGARA BARAT,Bali & Nusa Tenggara,False,3.06,,76.11,31.58,13.94,8.87,2569181.0,3106729.0,318497.0,1098811.0,41371.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+19,Nusa Tenggara Timur,Indonesia,NUSA TENGGARA TIMUR,Bali & Nusa Tenggara,False,3.31,,75.55,31.56,11.44,8.88,2674136.0,2989090.0,295842.0,1308213.0,13246.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+20,Kalimantan Barat,Indonesia,KALIMANTAN BARAT,Kalimantan,False,4.82,,70.9,43.61,8.39,8.54,2972111.0,2930432.0,149234.0,1250517.0,127838.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+21,Kalimantan Tengah,Indonesia,KALIMANTAN TENGAH,Kalimantan,False,3.97,,68.4,49.85,5.97,9.36,3451676.0,1417683.0,78516.0,468188.0,151533.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+22,Kalimantan Selatan,Indonesia,KALIMANTAN SELATAN,Kalimantan,False,4.16,,69.93,46.52,7.39,9.17,3164480.0,2153139.0,184076.0,581351.0,94351.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+23,Kalimantan Timur,Indonesia,KALIMANTAN TIMUR,Kalimantan,False,5.18,,66.58,56.78,5.66,10.3,4475944.0,1969739.0,140936.0,352953.0,169202.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+24,Kalimantan Utara,Indonesia,KALIMANTAN UTARA,Kalimantan,False,3.85,,69.55,51.56,4.71,9.69,3675921.0,380572.0,28075.0,124003.0,15421.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+25,Sulawesi Utara,Indonesia,SULAWESI UTARA,Sulawesi,False,5.99,,67.21,45.44,7.77,10.1,3420935.0,1339333.0,154753.0,305717.0,53987.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+26,Sulawesi Tengah,Indonesia,SULAWESI TENGAH,Sulawesi,False,2.92,,72.4,35.43,8.04,9.38,3056120.0,1652846.0,137865.0,644997.0,34398.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+27,Sulawesi Selatan,Indonesia,SULAWESI SELATAN,Sulawesi,False,4.21,,67.65,39.55,7.93,9.38,3060385.0,4759077.0,355385.0,1729197.0,35633.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+28,Sulawesi Tenggara,Indonesia,SULAWESI TENGGARA,Sulawesi,False,3.31,,71.67,38.87,7.94,9.9,3189724.0,1434033.0,120604.0,474782.0,36178.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+29,Gorontalo,Indonesia,GORONTALO,Sulawesi,False,3.42,,69.29,38.86,6.82,8.78,2911813.0,633263.0,53060.0,185743.0,27704.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+30,Sulawesi Barat,Indonesia,SULAWESI BARAT,Sulawesi,False,2.86,,74.25,29.37,11.33,8.91,2698528.0,800433.0,63725.0,383566.0,2108.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+31,Maluku,Indonesia,MALUKU,Maluku & Papua,False,6.27,,66.66,33.94,11.49,10.63,3100805.0,922486.0,120591.0,282135.0,17349.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+32,Maluku Utara,Indonesia,MALUKU UTARA,Maluku & Papua,False,4.55,,69.57,35.49,10.56,9.78,3620219.0,673456.0,167688.0,162582.0,19579.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+33,Papua Barat,Indonesia,PAPUA BARAT,Maluku & Papua,True,4.55,,69.55,36.81,9.74,9.9,3765973.0,288323.0,9903.0,118285.0,2032.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+34,Papua Barat Daya,Indonesia,PAPUA BARAT DAYA,Maluku & Papua,True,6.85,,68.1,44.34,7.49,10.6,3837947.0,301862.0,23639.0,78264.0,7169.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+35,Papua,Indonesia,PAPUA,Maluku & Papua,True,6.96,,63.98,47.12,8.63,10.65,4426645.0,434016.0,20796.0,119201.0,2476.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+36,Papua Selatan,Indonesia,PAPUA SELATAN,Maluku & Papua,True,4.04,,67.37,34.12,6.45,8.87,4264963.0,217682.0,9371.0,101295.0,,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+37,Papua Tengah,Indonesia,PAPUA TENGAH,Maluku & Papua,True,3.62,,73.89,15.28,16.89,6.27,4808336.0,790239.0,13201.0,592702.0,18087.0,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.
+38,Papua Pegunungan,Indonesia,PAPUA PEGUNUNGAN,Maluku & Papua,True,1.68,,90.66,4.7,5.37,4.76,3941546.0,1040001.0,,961850.0,,Belum tersedia dalam paket sumber; jangan isi dengan TPT total.

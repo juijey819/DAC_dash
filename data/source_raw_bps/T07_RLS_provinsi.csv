@@ -1,0 +1,47 @@
+﻿# Judul tabel BPS: Rata-Rata Lama Sekolah Penduduk Umur 15 Tahun ke Atas Menurut Provinsi
+# Sumber resmi: Badan Pusat Statistik (BPS) - https://www.bps.go.id/id/statistics-table/2/MTQyOSMy/rata-rata-lama-sekolah-penduduk-umur-15-tahun-ke-atas-menurut-provinsi.html
+# Terakhir Diperbarui : 12 Desember 2025 (keterangan pada laman BPS)
+# Satuan: Tahun
+# Catatan BPS: Sumber: BPS, Susenas
+# Tanggal akses: 18 November 2026
+# Cara pengambilan: Diambil dari tampilan tabel resmi BPS di bps.go.id (dibaca langsung dari tabel yang dirender di browser, tanpa pengubahan angka). Angka disimpan persis seperti tampilan BPS (format Indonesia: titik = ribuan, koma = desimal).
+Provinsi,Tahunan 2024,Tahunan 2025
+ACEH,"9,95","10,42"
+SUMATERA UTARA,"10,18","10,29"
+SUMATERA BARAT,"9,72","10,03"
+RIAU,"9,69","9,80"
+JAMBI,"9,26","9,32"
+SUMATERA SELATAN,"8,98","9,28"
+BENGKULU,"9,40","9,71"
+LAMPUNG,"8,80","9,00"
+KEP. BANGKA BELITUNG,"8,78","9,09"
+KEP. RIAU,"10,65","10,78"
+DKI JAKARTA,"11,49","11,58"
+JAWA BARAT,"9,24","9,46"
+JAWA TENGAH,"8,47","8,62"
+DI YOGYAKARTA,"10,23","10,58"
+JAWA TIMUR,"8,69","8,81"
+BANTEN,"9,55","9,82"
+BALI,"9,87","10,07"
+NUSA TENGGARA BARAT,"8,50","8,87"
+NUSA TENGGARA TIMUR,"8,48","8,88"
+KALIMANTAN BARAT,"8,28","8,54"
+KALIMANTAN TENGAH,"9,17","9,36"
+KALIMANTAN SELATAN,"9,02","9,17"
+KALIMANTAN TIMUR,"10,22","10,30"
+KALIMANTAN UTARA,"9,58","9,69"
+SULAWESI UTARA,"10,02","10,10"
+SULAWESI TENGAH,"9,28","9,38"
+SULAWESI SELATAN,"9,22","9,38"
+SULAWESI TENGGARA,"9,74","9,90"
+GORONTALO,"8,64","8,78"
+SULAWESI BARAT,"8,56","8,91"
+MALUKU,"10,44","10,63"
+MALUKU UTARA,"9,70","9,78"
+PAPUA BARAT,"9,87","9,90"
+PAPUA BARAT DAYA,"10,48","10,60"
+PAPUA,"10,70","10,65"
+PAPUA SELATAN,"8,99","8,87"
+PAPUA TENGAH,"6,17","6,27"
+PAPUA PEGUNUNGAN,"5,10","4,76"
+INDONESIA,"9,22","9,41"
